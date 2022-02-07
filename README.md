@@ -8,6 +8,7 @@ Clone the repository and install jest and inquirer.
 
 ## Usage
 How to use --> [Walkthrough](https://youtu.be/D1vuja_STFc)
+![Image](https://github.com/mweyer/Team-Profile-Generator/blob/main/images/team-ss.png)
 
 ## Credits
 Michael Weyer
